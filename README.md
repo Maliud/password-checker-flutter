@@ -1,7 +1,8 @@
-# animated_model_3d
+
 
 Flutter Password_Strength_Checker.
 
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-21 at 01 17 17](https://github.com/Maliud/password-checker-flutter/assets/72108306/56f970f2-a928-47cd-985b-b09023176b0f)
 
 
 
